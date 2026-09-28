@@ -1,0 +1,8 @@
+{
+  "name": "VeloPulse Delivery SaaS",
+  "description": "Enterprise delivery management SaaS with real-time fleet tracking, customer registry, rider commission calculator, offline sync, and automated SMS/WhatsApp alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
